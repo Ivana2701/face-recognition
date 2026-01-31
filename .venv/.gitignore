@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+known_pictures/
+unknown_pictures/
